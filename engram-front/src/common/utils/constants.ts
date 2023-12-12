@@ -1,0 +1,1 @@
+export const ENGLISH_LEVEL_TEST_LINK = 'https://learnenglish.britishcouncil.org/test-your-english?destination=/online-english-level-test#/?_k=ze275j';
